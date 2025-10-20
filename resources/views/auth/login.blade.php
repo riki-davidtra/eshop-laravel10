@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>E-SHOP || Login Page</title>
+  <title>Azzahra Make Up || Login Page</title>
   @include('backend.layouts.head')
 
 </head>

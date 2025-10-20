@@ -1,5 +1,5 @@
 @extends('frontend.layouts.master')
-@section('title', 'E-SHOP || HOME PAGE')
+@section('title', 'Azzahra Make Up || HOME PAGE')
 @section('main-content')
     {{-- <img src="{{ asset('frontend/img/banner.jpg') }}" style="width: 100%; min-height: 100vh; object-fit: contain; object-position: center;"> --}}
 
